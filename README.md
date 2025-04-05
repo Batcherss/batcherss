@@ -1,1 +1,1 @@
-![Batchers's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Batchers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batcherss&show_icons=true&theme=radical)
