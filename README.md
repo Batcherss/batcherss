@@ -1,10 +1,10 @@
-## 🔧 Meet My Tools
+## Meet My Tools
 
 Check out my tools site:  
-🌐 [**batcherss.netlify.app**](https://batcherss.netlify.app/)
+[**batcherss.netlify.app**](https://batcherss.netlify.app/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Batchers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batcherss&show_icons=true&theme=radical)
+![Batchers's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Batcherss&theme=dark&show_icons=true)
